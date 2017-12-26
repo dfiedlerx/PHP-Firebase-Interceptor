@@ -1,0 +1,11 @@
+{
+
+    "require": {
+
+        "kreait/firebase-php": "^3.0",
+        "mdanter/ecc": "*",
+        "psr/log": "*"
+
+    }
+
+}

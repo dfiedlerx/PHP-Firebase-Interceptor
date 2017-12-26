@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+composer-setup.php
+composer.lock
+composer.phar
+index.php
+vendor/
+/google-service-account.json
